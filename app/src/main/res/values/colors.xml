@@ -1,0 +1,100 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <color name="color_7db320">#7db320</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_90ba44">#90ba44</color>
+    <color name="color_efefef">#efefef</color>
+    <color name="color_00000000">#00000000</color>
+    <color name="color_000000">#000000</color>
+     <color name="color_d3d3d3">#d3d3d3</color>
+     <color name="color_d0d0d0">#d0d0d0</color>
+    <color name="color_e8e8e8">#e8e8e8</color>
+    <color name="color_222222">#222222</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_cdcdcd">#cdcdcd</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_e7e7e7">#e7e7e7</color>
+    <color name="color_e5e5e5">#e5e5e5</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_6e6e6e">#6e6e6e</color>
+    <color name="color_c6c6c6">#c6c6c6</color>
+    <color name="color_e0e0e0">#e0e0e0</color>
+    <color name="color_e2e2e2">#e2e2e2</color>
+    <color name="color_191919">#191919</color>
+    <color name="color_4c4c4c">#4c4c4c</color>
+    <color name="color_7f7f7f">#7f7f7f</color>
+    <color name="color_a6a6a6">#a6a6a6</color>
+    <color name="color_b2b2b2">#b2b2b2</color>
+    <color name="color_bfbfbf">#bfbfbf</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_f2f2f2">#f2f2f2</color>
+    <color name="color_5193b9">#5193b9</color>
+    <color name="color_e4e4e4">#e4e4e4</color>
+    <color name="color_f4f4f4">#f4f4f4</color>
+    <color name="color_2087e8">#2087e8</color>
+    <color name="color_317dcc">#317dcc</color>
+    <color name="color_2d2d2d">#2d2d2d</color>
+    <color name="color_2d8cc0">#2d8cc0</color>
+    <color name="color_0090ff">#0090ff</color>
+    <color name="color_dedede">#dedede</color>
+    <color name="color_d7d7d7">#d7d7d7</color>
+    <color name="color_d4d4d4">#d4d4d4</color>
+    <color name="color_f7f7f7">#f7f7f7</color>
+    <color name="color_b3b3b3">#b3b3b3</color>
+    <color name="color_2aa1e3">#2aa1e3</color>
+    <color name="color_a8d260">#a8d260</color>
+    <color name="color_4d4d4d">#4d4d4d</color>
+    <color name="color_404040">#404040</color>
+    <color name="color_525252">#525252</color>
+    <color name="color_d5d5d5">#d5d5d5</color>
+    <color name="color_363636">#363636</color>
+    <color name="color_ff7336">#ff7336</color>
+    <color name="color_9ad0ec">#9ad0ec</color>
+    <color name="color_c7e6f6">#c7e6f6</color>
+    
+    <color name="color_c7c7c7">#c7c7c7</color>
+    
+    <color name="color_376075">#376075</color>
+    <color name="color_1a3e50">#1a3e50</color>
+    <color name="color_1c1c1c">#1c1c1c</color>
+    <color name="color_383838">#383838</color>
+    <color name="color_868686">#868686</color>
+    <color name="color_d9d9d9">#d9d9d9</color>
+    <color name="color_dbdbdb">#dbdbdb</color>
+    <color name="color_993737">#993737</color>
+    <color name="color_ebebeb">#ebebeb</color>
+    <color name="color_ededed">#ededed</color>
+    <color name="color_838383">#838383</color>
+    <color name="color_cde0ea">#cde0ea</color>
+    <color name="color_303030">#303030</color>
+    <color name="color_7d7d7d">#7d7d7d</color>
+    <color name="color_1eacfb">#1eacfb</color>
+    <color name="color_629112">#629112</color>
+    <color name="color_2084d1">#2084d1</color>
+    <color name="color_ccddeb">#ccddeb</color>
+    <color name="color_c9c9c9">#c9c9c9</color>
+    <color name="color_c4c4c4">#c4c4c4</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_ababab">#ababab</color>
+    <color name="color_f3f3f3">#f3f3f3</color>
+    <color name="color_434343">#434343</color>
+    <color name="color_496a0f">#496a0f</color>
+    <color name="color_b4b4b4">#b4b4b4</color>
+	<color name="color_c5c5c5">#c5c5c5</color>
+	
+	<color name="grey">#ffdedede</color>
+	<color name="blue">#ff0099cc</color>
+	<color name="red">#ffff4444</color>
+	<color name="green">#ff99cc00</color>
+	<color name="white">#ffffffff</color>
+	
+	
+	<color name="lightwhite">#ddd</color>
+	
+	<color name="bag_line">#fff4f4f4</color>
+	<color name="f3f3f3">#f3f3f3</color>
+	<color name="w">#99ffffff</color>
+	<color name="black">#ff000000</color>
+	
+</resources>

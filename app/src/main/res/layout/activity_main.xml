@@ -41,6 +41,13 @@
             android:gravity="center"
             android:text="事件"/>
 
+        <Button
+            android:id="@+id/three_fragmnet"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="fragmnet之间的通信事件"/>
+
     </LinearLayout>
 
 </RelativeLayout>

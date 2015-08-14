@@ -21,6 +21,7 @@
         <activity android:name="com.sj.at.four.ViewPageTest"></activity>
         <activity android:name="com.sj.at.five.ViewPageFragment"></activity>
         <activity android:name="com.sj.at.two.MainTwoActivity"></activity>
+        <activity android:name="com.sj.at.three.MainThreeActivity"></activity>
 
     </application>
 

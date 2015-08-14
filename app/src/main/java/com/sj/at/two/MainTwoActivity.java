@@ -38,6 +38,8 @@ public class MainTwoActivity extends Activity implements FragmentOne.FOneBtnClic
 
     /**
      * FragmentOne 按钮点击时的回调
+     *
+     * replace方法再回来的时候Edittext里面的数据会被清空
      */
     @Override
     public void onFOneBtnClick()
@@ -57,6 +59,8 @@ public class MainTwoActivity extends Activity implements FragmentOne.FOneBtnClic
 
     /**
      * FragmentTwo 按钮点击时的回调
+     *
+     * hide方法再回来的时候Edittext里面的数据不会被清空
      */
     @Override
     public void onFTwoBtnClick()
